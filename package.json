@@ -1,5 +1,5 @@
 {
-  "name": "hello-npm",
+  "name": "omaroovee",
   "version": "1.0.0",
   "description": "Nothing new just learning to publish a Node package",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Omaroovee/Hello-NPM/issues"
   },
-  "homepage": "https://github.com/Omaroovee/Hello-NPM#readme"
+  "homepage": "https://github.com/Omaroovee/Hello-NPM#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
