@@ -1,6 +1,6 @@
 {
   "name": "omaroovee",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Nothing new just learning to publish a Node package",
   "main": "index.js",
   "scripts": {
